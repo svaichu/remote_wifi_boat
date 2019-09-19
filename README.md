@@ -3,4 +3,3 @@ boat remote controlled over wifi
 
 Install the app in an andriod phone.
 Run the program in Raspberry Pi
-Phone and pi should be on same network
